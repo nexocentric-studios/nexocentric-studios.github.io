@@ -54,10 +54,10 @@ visibility: visible;
 /* ============================= header ====================== */
 #top{position: relative;}
 
-.front #top{background-image: url(http://placehold.it/1920x1050); background-size: cover; background-attachment: scroll; background-repeat: repeat-y; background-position: center center;}
+.front #top{background-image: url(https://placehold.it/1920x1050); background-size: cover; background-attachment: scroll; background-repeat: repeat-y; background-position: center center;}
 .support-fixed.front #top{background-attachment: fixed;}
 
-.not-front #top{background-image: url(http://placehold.it/1920x1050); background-size: cover; background-attachment: scroll; background-repeat: repeat-y; background-position: center top;}
+.not-front #top{background-image: url(https://placehold.it/1920x1050); background-size: cover; background-attachment: scroll; background-repeat: repeat-y; background-position: center top;}
 .support-fixed.not-front #top{background-attachment: fixed;}
 
 #top2{z-index: 30; background: none;
