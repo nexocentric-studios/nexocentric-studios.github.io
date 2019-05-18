@@ -299,7 +299,7 @@ transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -webkit-trans
 #services2{position: relative; display: table; width: 100%;}
 #services2 .left_box_wrapper{position: relative; overflow: hidden; display: table-cell; width: 60%;}
 #services2 .left_box{padding: 70px 50px;}
-#services2 .right_box_wrapper{position: relative; overflow: hidden; display: table-cell; width: 40%; background: url(http://placehold.it/782x620) center center no-repeat; background-size: cover;}
+#services2 .right_box_wrapper{position: relative; overflow: hidden; display: table-cell; width: 40%; background: url(https://placehold.it/782x620) center center no-repeat; background-size: cover;}
 
 .services2{position: relative; padding:20px 0px 20px 70px;}
 .services2:before{content: ''; display: block; width: 1px; height: 100%; background: url(../images/vl1.png) 0 0 no-repeat; background-size: 100% 100%; position: absolute; left: -15px; top: 0;}
@@ -319,7 +319,7 @@ transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -webkit-trans
 
 #what_wrapper{position: relative; background: #f7f8f9;}
 #what{position: relative; display: table; width: 100%;}
-#what .left_box_wrapper{position: relative; overflow: hidden; display: table-cell; width: 50%; background: url(http://placehold.it/959x741) center center no-repeat; background-size: cover; vertical-align: middle;}
+#what .left_box_wrapper{position: relative; overflow: hidden; display: table-cell; width: 50%; background: url(https://placehold.it/959x741) center center no-repeat; background-size: cover; vertical-align: middle;}
 #what .left_box{padding: 110px;}
 #what .left_box_inner{}
 #what .right_box_wrapper{position: relative; overflow: hidden; display: table-cell; width: 50%; vertical-align: middle;}
@@ -501,7 +501,7 @@ transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -webkit-trans
 .parallax .container { }
 
 
-.bg1 { background-image: url(http://placehold.it/1920x1118); }
+.bg1 { background-image: url(https://placehold.it/1920x1118); }
 
 
 
